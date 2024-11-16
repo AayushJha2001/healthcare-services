@@ -67,6 +67,7 @@ cd healthcare-api
 Install dependencies:
 
 npm install express mongoose body-parser
+
 Start MongoDB locally.
 
 Run the application:
