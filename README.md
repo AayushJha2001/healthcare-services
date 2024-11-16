@@ -61,6 +61,7 @@ To clone and run the project on any machine:
 Clone the repository:
 
 git clone https://github.com/AayushJha2001/healthcare-services.git
+
 cd healthcare-api
 
 Install dependencies:
