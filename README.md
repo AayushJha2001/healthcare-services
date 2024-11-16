@@ -1,6 +1,7 @@
 This project is a simple API built with Node.js, Express, and MongoDB to manage healthcare services. It includes endpoints for adding, retrieving, updating, and deleting services.
 
 **Prerequisites**
+
 Node.js: Ensure Node.js is installed on your system.
 MongoDB: Install MongoDB and ensure it is running locally.
 Git: Install Git if not already installed.
@@ -54,6 +55,7 @@ DELETE /api/services/{id}
 
 
 **Pulling and Running the Project**
+
 To clone and run the project on any machine:
 
 Clone the repository:
